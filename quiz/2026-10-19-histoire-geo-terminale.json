@@ -1,0 +1,74 @@
+{
+ "matiere": "Histoire-géo",
+ "niveau": "Terminale",
+ "fond": "histoire-geo.png",
+ "musique": 3,
+ "programme": "Terminale – Histoire, thème 1 « Fragilités des démocraties, totalitarismes et Seconde Guerre mondiale (1929-1945) » : ch. 1 L'impact de la crise de 1929, ch. 2 Les régimes totalitaires – BO spécial n°8 du 25 juillet 2019",
+ "questions": [
+  {
+   "q": "En quelle année a lieu le krach de Wall Street ?",
+   "options": [
+    "1929",
+    "1933",
+    "1936"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Quel président américain lance le New Deal ?",
+   "options": [
+    "Herbert Hoover",
+    "Franklin D. Roosevelt",
+    "Harry Truman"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "En quelle année Hitler devient-il chancelier ?",
+   "options": [
+    "1923",
+    "1939",
+    "1933"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quelle coalition de gauche remporte les élections législatives de 1936 en France ?",
+   "options": [
+    "Le Front populaire",
+    "Le Cartel des gauches",
+    "Le Bloc national"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Quel dirigeant impose la collectivisation forcée des terres en URSS ?",
+   "options": [
+    "Lénine",
+    "Staline",
+    "Trotski"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel nom désigne le système des camps de travail forcé en URSS ?",
+   "options": [
+    "Le kolkhoze",
+    "La NEP",
+    "Le Goulag"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quelles lois de 1935 privent les Juifs allemands de la citoyenneté ?",
+   "options": [
+    "Les lois de Vichy",
+    "Les lois de Nuremberg",
+    "Les lois Jules Ferry"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Cite deux points communs entre le régime nazi et le régime stalinien.",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

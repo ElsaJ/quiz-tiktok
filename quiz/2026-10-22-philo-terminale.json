@@ -1,0 +1,74 @@
+{
+ "matiere": "Philo",
+ "niveau": "Terminale",
+ "fond": "philo.png",
+ "musique": 2,
+ "programme": "Terminale – Philosophie, notions « La conscience », « L'inconscient », « La liberté » – BO spécial n°8 du 25 juillet 2019",
+ "questions": [
+  {
+   "q": "Qui a écrit « Je pense, donc je suis » ?",
+   "options": [
+    "Pascal",
+    "Descartes",
+    "Kant"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel penseur est le fondateur de la psychanalyse ?",
+   "options": [
+    "Freud",
+    "Jung",
+    "Lacan"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Pour Freud, quelles sont les trois instances du psychisme ?",
+   "options": [
+    "Corps, âme, esprit",
+    "Raison, désir, volonté",
+    "Ça, moi, surmoi"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quel philosophe affirme que « l'homme est condamné à être libre » ?",
+   "options": [
+    "Rousseau",
+    "Spinoza",
+    "Sartre"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Pour Spinoza, les hommes se croient libres parce qu'ils ignorent…",
+   "options": [
+    "Leur conscience",
+    "Les causes de leurs désirs",
+    "Les lois de l'État"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Comment Freud appelle-t-il un lapsus ou l'oubli d'un nom ?",
+   "options": [
+    "Un acte manqué",
+    "Un rêve éveillé",
+    "Un refoulement"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Pour Leibniz, les « petites perceptions » sont des perceptions…",
+   "options": [
+    "Douloureuses",
+    "Inconscientes",
+    "Imaginaires"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Peut-on être libre sans avoir conscience de ses choix ?",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

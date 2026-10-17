@@ -1,0 +1,74 @@
+{
+ "matiere": "SES",
+ "niveau": "Première",
+ "fond": "ses.png",
+ "musique": 1,
+ "programme": "Première spécialité SES – « Comment un marché concurrentiel fonctionne-t-il ? » et « Comment la socialisation contribue-t-elle à expliquer les différences de comportement des individus ? » – BO spécial n°1 du 22 janvier 2019",
+ "questions": [
+  {
+   "q": "Sur un marché concurrentiel, quand le prix augmente, la quantité demandée…",
+   "options": [
+    "Augmente",
+    "Diminue",
+    "Ne change pas"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Comment appelle-t-on le prix pour lequel l'offre est égale à la demande ?",
+   "options": [
+    "Le prix d'équilibre",
+    "Le prix plafond",
+    "Le coût marginal"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Sur un marché concurrentiel, les agents sont…",
+   "options": [
+    "En monopole",
+    "Faiseurs de prix",
+    "Preneurs de prix"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Comment appelle-t-on le coût de production d'une unité supplémentaire ?",
+   "options": [
+    "Le coût marginal",
+    "Le coût fixe",
+    "Le coût moyen"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Une hausse du revenu des consommateurs déplace la courbe de demande vers…",
+   "options": [
+    "La gauche",
+    "La droite",
+    "Le bas"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Comment appelle-t-on la socialisation de l'enfance ?",
+   "options": [
+    "Primaire",
+    "Secondaire",
+    "Professionnelle"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Quelle est l'instance principale de la socialisation primaire ?",
+   "options": [
+    "L'entreprise",
+    "Les médias",
+    "La famille"
+   ],
+   "bonne": 2
+  }
+ ],
+ "bonus": "Donne un exemple d'instance de socialisation secondaire.",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

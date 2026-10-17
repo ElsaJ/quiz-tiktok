@@ -1,0 +1,74 @@
+{
+ "matiere": "SVT",
+ "niveau": "Seconde",
+ "fond": "svt.png",
+ "musique": 2,
+ "programme": "Seconde – Thème 1 « La Terre, la vie et l'organisation du vivant » : l'organisation fonctionnelle du vivant (organisme pluricellulaire, ADN, métabolisme des cellules) – BO spécial n°1 du 22 janvier 2019",
+ "questions": [
+  {
+   "q": "Quelle structure délimite toute cellule ?",
+   "options": [
+    "La paroi",
+    "La membrane plasmique",
+    "Le noyau"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quelles sont les quatre bases (nucléotides) de l'ADN ?",
+   "options": [
+    "A, T, C, G",
+    "A, U, C, G",
+    "A, B, C, D"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Quelle est la forme de la molécule d'ADN ?",
+   "options": [
+    "Une simple chaîne",
+    "Une double hélice",
+    "Une triple hélice"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Dans l'ADN, quelle base est complémentaire de l'adénine (A) ?",
+   "options": [
+    "La guanine (G)",
+    "La cytosine (C)",
+    "La thymine (T)"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Un ensemble de cellules spécialisées qui assurent la même fonction forme…",
+   "options": [
+    "Un tissu",
+    "Un organite",
+    "Un gène"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Une cellule qui fabrique sa matière organique à partir de matière minérale est…",
+   "options": [
+    "Hétérotrophe",
+    "Autotrophe",
+    "Unicellulaire"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quelle voie métabolique produit de l'énergie en utilisant du dioxygène ?",
+   "options": [
+    "La fermentation",
+    "La photosynthèse",
+    "La respiration"
+   ],
+   "bonne": 2
+  }
+ ],
+ "bonus": "Pourquoi les cellules d'un même organisme sont-elles différentes alors qu'elles ont le même ADN ?",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}
