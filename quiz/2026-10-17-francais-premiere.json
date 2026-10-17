@@ -1,0 +1,12 @@
+{"matiere":"Français","niveau":"Première","fond":"francais.png",
+"questions":[
+{"q":"Combien de syllabes compte un alexandrin ?","options":["10 syllabes","12 syllabes","8 syllabes"],"bonne":1},
+{"q":"Quelle forme poétique compte exactement 14 vers ?","options":["Le rondeau","La ballade","Le sonnet"],"bonne":2},
+{"q":"Comment appelle-t-on la scène qui présente les personnages et l'intrigue ?","options":["La scène d'exposition","Le dénouement","La péripétie"],"bonne":0},
+{"q":"Quel mouvement Victor Hugo défend-il dans la préface de Cromwell ?","options":["Le classicisme","Le romantisme","Le naturalisme"],"bonne":1},
+{"q":"Quel registre cherche à susciter la pitié du lecteur ?","options":["Le comique","L'épique","Le pathétique"],"bonne":2},
+{"q":"Qui est l'auteur des Caractères ?","options":["La Bruyère","La Fontaine","Molière"],"bonne":0},
+{"q":"Qu'est-ce qu'un apologue ?","options":["Un poème d'amour","Un récit à visée morale","Une tragédie en vers"],"bonne":1}
+],
+"bonus":"Quel mouvement littéraire a pour chef de file Émile Zola ?",
+"fin":"réponds en commentaire et abonne-toi pour plus de quiz !"}
