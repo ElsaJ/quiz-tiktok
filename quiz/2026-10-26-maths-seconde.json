@@ -1,0 +1,74 @@
+{
+ "matiere": "Maths",
+ "niveau": "Seconde",
+ "fond": "maths.png",
+ "musique": 2,
+ "programme": "Seconde – Nouveau programme 2026 : nombres réels, intervalles, valeur absolue (distance), automatismes sur les pourcentages et évolutions, coordonnées du milieu (période 1 sept.-oct. des trames de progression 2026-2027) – arrêté du 26-02-2026, BO n°14 du 2 avril 2026 ; révision Toussaint",
+ "questions": [
+  {
+   "q": "Le nombre 1/3 est-il un nombre décimal ?",
+   "options": [
+    "Oui",
+    "Non, il est rationnel",
+    "Non, il est irrationnel"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Lequel de ces nombres appartient à l'intervalle ]2 ; 5] ?",
+   "options": [
+    "2",
+    "5",
+    "6"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Que vaut la valeur absolue de −7 ?",
+   "options": [
+    "−7",
+    "1/7",
+    "7"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quelle est la distance entre 3 et −5 sur la droite des réels ?",
+   "options": [
+    "2",
+    "−8",
+    "8"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Augmenter un prix de 5 %, c'est le multiplier par…",
+   "options": [
+    "1,05",
+    "0,95",
+    "1,5"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Une baisse de 20 % suivie d'une hausse de 20 % donne au total…",
+   "options": [
+    "Aucune variation",
+    "Une baisse de 4 %",
+    "Une hausse de 4 %"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quelles sont les coordonnées du milieu de A(2 ; 4) et B(6 ; 0) ?",
+   "options": [
+    "(4 ; 2)",
+    "(8 ; 4)",
+    "(2 ; 4)"
+   ],
+   "bonne": 0
+  }
+ ],
+ "bonus": "Cite un nombre réel qui n'est pas rationnel !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

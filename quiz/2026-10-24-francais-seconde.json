@@ -1,0 +1,74 @@
+{
+ "matiere": "Français",
+ "niveau": "Seconde",
+ "fond": "francais.png",
+ "musique": 3,
+ "programme": "Seconde – Révision Toussaint : outils d'analyse du récit et de la poésie travaillés depuis la rentrée (objets d'étude « Le roman et le récit du XVIIIe au XXIe siècle » et « La poésie du Moyen Âge au XVIIIe siècle ») – programme BO spécial n°1 du 22 janvier 2019 ; vacances de Toussaint du 17/10 au 02/11/2026 (toutes zones)",
+ "questions": [
+  {
+   "q": "Dans un récit, comment appelle-t-on un retour en arrière ?",
+   "options": [
+    "Une ellipse",
+    "Une analepse",
+    "Une prolepse"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quand le narrateur sait tout de tous les personnages, la focalisation est…",
+   "options": [
+    "Interne",
+    "Externe",
+    "Omnisciente"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Des rimes disposées ABBA sont des rimes…",
+   "options": [
+    "Embrassées",
+    "Croisées",
+    "Suivies"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Qui a écrit « Le Rouge et le Noir » ?",
+   "options": [
+    "Stendhal",
+    "Balzac",
+    "Flaubert"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "« Cette obscure clarté qui tombe des étoiles » : quelle figure de style ?",
+   "options": [
+    "Une antithèse",
+    "Un oxymore",
+    "Une litote"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Comment appelle-t-on une strophe de quatre vers ?",
+   "options": [
+    "Un tercet",
+    "Un distique",
+    "Un quatrain"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Dans un récit au passé, le passé simple sert surtout à…",
+   "options": [
+    "Raconter les actions",
+    "Décrire le décor",
+    "Exprimer un souhait"
+   ],
+   "bonne": 0
+  }
+ ],
+ "bonus": "Cite un roman du XIXe siècle et son auteur !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

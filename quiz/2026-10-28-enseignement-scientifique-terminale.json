@@ -1,0 +1,74 @@
+{
+ "matiere": "Enseignement scientifique",
+ "niveau": "Terminale",
+ "fond": "enseignement-scientifique.png",
+ "musique": 3,
+ "programme": "Terminale – Enseignement scientifique, thème 1 « Science, climat et société » : 1.1 L'atmosphère terrestre et la vie, 1.2 La complexité du système climatique (1er thème du programme, traité en début d'année) – BO spécial n°8 du 25 juillet 2019 (programme révisé) ; révision Toussaint",
+ "questions": [
+  {
+   "q": "Quel gaz est le plus abondant dans l'atmosphère actuelle ?",
+   "options": [
+    "Le dioxygène",
+    "Le diazote",
+    "Le CO2"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quels êtres vivants ont produit le premier dioxygène de l'atmosphère ?",
+   "options": [
+    "Les cyanobactéries",
+    "Les fougères",
+    "Les champignons"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Où se trouve la couche d'ozone ?",
+   "options": [
+    "Dans la stratosphère",
+    "Dans la troposphère",
+    "Dans l'ionosphère"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "La couche d'ozone protège les êtres vivants contre…",
+   "options": [
+    "Les infrarouges",
+    "Les ondes radio",
+    "Les rayons UV"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Comment appelle-t-on la fraction du rayonnement solaire réfléchie par une surface ?",
+   "options": [
+    "L'émissivité",
+    "L'albédo",
+    "L'effet de serre"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel est le principal gaz à effet de serre de l'atmosphère ?",
+   "options": [
+    "Le CO2",
+    "Le méthane",
+    "La vapeur d'eau"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Le CO2 rejeté par les activités humaines provient surtout…",
+   "options": [
+    "Des énergies fossiles",
+    "Des volcans",
+    "Des océans"
+   ],
+   "bonne": 0
+  }
+ ],
+ "bonus": "Pourquoi la fonte des glaces accélère-t-elle le réchauffement climatique ?",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

@@ -1,0 +1,74 @@
+{
+ "matiere": "Histoire-géo",
+ "niveau": "Première",
+ "fond": "histoire-geo.png",
+ "musique": 1,
+ "programme": "Première – Histoire, thème 1 « L'Europe face aux révolutions », ch. 1 « La Révolution française et l'Empire : une nouvelle conception de la nation » (1er chapitre de l'année, 6-7 h, cf. présentation académie de Grenoble) – BO spécial n°1 du 22 janvier 2019 ; révision pendant les vacances de Toussaint",
+ "questions": [
+  {
+   "q": "En quelle année la Déclaration des droits de l'homme et du citoyen est-elle adoptée ?",
+   "options": [
+    "1789",
+    "1791",
+    "1793"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Selon la DDHC, où réside le principe de toute souveraineté ?",
+   "options": [
+    "Dans le roi",
+    "Dans la nation",
+    "Dans l'Église"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quand la monarchie est-elle abolie en France ?",
+   "options": [
+    "Juillet 1789",
+    "Juin 1791",
+    "Septembre 1792"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "En quelle année Louis XVI est-il exécuté ?",
+   "options": [
+    "1792",
+    "1793",
+    "1794"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Qui est guillotiné en juillet 1794, ce qui met fin à la Terreur ?",
+   "options": [
+    "Robespierre",
+    "Danton",
+    "Marat"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Par quel coup d'État Bonaparte prend-il le pouvoir en 1799 ?",
+   "options": [
+    "Le 9 Thermidor",
+    "Le 18 Brumaire",
+    "Le 10 Août"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "En quelle année le Code civil est-il promulgué ?",
+   "options": [
+    "1799",
+    "1815",
+    "1804"
+   ],
+   "bonne": 2
+  }
+ ],
+ "bonus": "Pourquoi les conquêtes de Napoléon ont-elles réveillé les sentiments nationaux en Europe ?",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

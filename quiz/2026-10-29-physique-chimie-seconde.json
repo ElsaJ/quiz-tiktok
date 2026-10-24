@@ -1,0 +1,74 @@
+{
+ "matiere": "Physique-chimie",
+ "niveau": "Seconde",
+ "fond": "physique-chimie.png",
+ "musique": 1,
+ "programme": "Seconde – Physique-chimie, « Constitution et transformations de la matière », partie 1 : décrire et caractériser la matière à l'échelle macroscopique (corps purs, mélanges, tests chimiques, composition de l'air, solutions aqueuses) – 1er chapitre des progressions (ex. académie de Guyane) – BO spécial n°1 du 22 janvier 2019 ; révision Toussaint",
+ "questions": [
+  {
+   "q": "L'eau salée est…",
+   "options": [
+    "Un corps pur",
+    "Un mélange homogène",
+    "Un mélange hétérogène"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quelle est environ la masse volumique de l'eau liquide ?",
+   "options": [
+    "1 g/mL",
+    "10 g/mL",
+    "0,1 g/mL"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Quel test permet de mettre en évidence la présence d'eau ?",
+   "options": [
+    "L'eau de chaux",
+    "Sulfate de cuivre anhydre",
+    "Une allumette"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "L'eau de chaux se trouble en présence de…",
+   "options": [
+    "Dioxygène",
+    "Dihydrogène",
+    "Dioxyde de carbone"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quel gaz représente environ 21 % de l'air ?",
+   "options": [
+    "Le dioxygène",
+    "Le diazote",
+    "L'argon"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Dans de l'eau sucrée, le sucre est…",
+   "options": [
+    "Le soluté",
+    "Le solvant",
+    "La solution"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "On dissout 10 g de sel pour obtenir 0,5 L de solution. Sa concentration en masse vaut…",
+   "options": [
+    "5 g/L",
+    "10 g/L",
+    "20 g/L"
+   ],
+   "bonne": 2
+  }
+ ],
+ "bonus": "Comment vérifier qu'un liquide est un corps pur ? Indice : la température !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}
