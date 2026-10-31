@@ -257,6 +257,7 @@ def main(qpath, outpath):
             tk = sfx_tick(); i = int((c["T"] + 1.2 + s) * SR); fx[i:i + len(tk)] += tk
         dg = sfx_ding(); i = int((c["T"] + 6.1 + c["extra"]) * SR); fx[i:i + len(dg)] += dg[:len(fx[i:i + len(dg)])]
     music = synth_music(n / SR, Q.get("musique", 1))[:n]
+    music = np.pad(music, (0, max(0, n - len(music))))  # arrondi flottant : garantir n échantillons
     env = np.abs(vtrack)
     k = int(0.25 * SR)
     duck = np.convolve(env > 0.01, np.ones(k) / k, mode="same")

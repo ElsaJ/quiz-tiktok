@@ -1,0 +1,74 @@
+{
+ "matiere": "Histoire-géo",
+ "niveau": "Terminale",
+ "fond": "histoire-geo.png",
+ "musique": 3,
+ "programme": "Terminale – Histoire, thème 1 « Fragilités des démocraties, totalitarismes et Seconde Guerre mondiale (1929-1945) », ch. 3 « La Seconde Guerre mondiale » (après la crise de 1929 et les totalitarismes ; thème 1 d'histoire débuté en octobre, géographie thème 1 en septembre, progression annuelle académie de Strasbourg) – BO spécial n°8 du 25 juillet 2019",
+ "questions": [
+  {
+   "q": "Quel événement déclenche la guerre en Europe le 1er septembre 1939 ?",
+   "options": [
+    "Pearl Harbor",
+    "L'Anschluss",
+    "L'invasion de la Pologne"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "En quelle année l'Allemagne envahit-elle l'URSS ?",
+   "options": [
+    "1941",
+    "1939",
+    "1943"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Quand le Japon attaque-t-il la base américaine de Pearl Harbor ?",
+   "options": [
+    "Juin 1940",
+    "Décembre 1941",
+    "Mai 1945"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quelle bataille, achevée en février 1943, marque un tournant sur le front de l'Est ?",
+   "options": [
+    "Verdun",
+    "Stalingrad",
+    "Midway"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Comment appelle-t-on le génocide des Juifs d'Europe ?",
+   "options": [
+    "La Shoah",
+    "L'Holodomor",
+    "La Terreur"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Quel jour a lieu le débarquement allié en Normandie ?",
+   "options": [
+    "8 mai 1945",
+    "11 novembre 1942",
+    "6 juin 1944"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Sur quelle ville la première bombe atomique est-elle larguée le 6 août 1945 ?",
+   "options": [
+    "Hiroshima",
+    "Nagasaki",
+    "Tokyo"
+   ],
+   "bonne": 0
+  }
+ ],
+ "bonus": "Qui lance l'appel du 18 juin 1940, et depuis quelle ville ?",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

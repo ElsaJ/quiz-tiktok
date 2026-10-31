@@ -1,0 +1,74 @@
+{
+ "matiere": "SVT",
+ "niveau": "Première",
+ "fond": "svt.png",
+ "musique": 2,
+ "programme": "Première spécialité SVT – Thème 1 « La Terre, la vie et l'organisation du vivant », « Transmission, variation et expression du patrimoine génétique » : ch. 1 divisions cellulaires (mitose, méiose) et réplication de l'ADN, ch. 2 mutations de l'ADN et variabilité génétique (septembre-octobre dans la progression annuelle de l'académie de Guyane, avant l'expression du patrimoine génétique en novembre) – BO spécial n°1 du 22 janvier 2019",
+ "questions": [
+  {
+   "q": "Combien de cellules filles obtient-on à la fin d'une mitose ?",
+   "options": [
+    "4",
+    "2",
+    "1"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "La méiose produit des cellules…",
+   "options": [
+    "Haploïdes",
+    "Diploïdes",
+    "Identiques à la cellule mère"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "La réplication de l'ADN est dite…",
+   "options": [
+    "Conservative",
+    "Dispersive",
+    "Semi-conservative"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quels chercheurs ont démontré ce mode de réplication en 1958 ?",
+   "options": [
+    "Watson et Crick",
+    "Meselson et Stahl",
+    "Pasteur et Koch"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Pendant quelle phase du cycle cellulaire l'ADN est-il répliqué ?",
+   "options": [
+    "La phase S",
+    "La phase G1",
+    "La mitose"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Une mutation est…",
+   "options": [
+    "Toujours dangereuse",
+    "Une modification de l'ADN",
+    "Une division cellulaire"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Lequel de ces agents augmente la fréquence des mutations ?",
+   "options": [
+    "L'eau",
+    "Le glucose",
+    "Les rayons UV"
+   ],
+   "bonne": 2
+  }
+ ],
+ "bonus": "Pourquoi une mutation dans une cellule de la peau n'est-elle pas transmise aux enfants ?",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

@@ -1,0 +1,74 @@
+{
+ "matiere": "Histoire-géo",
+ "niveau": "Première",
+ "fond": "histoire-geo.png",
+ "musique": 2,
+ "programme": "Première – Géographie, thème 1 « La métropolisation : un processus mondial différencié » (villes et métropolisation, recompositions des espaces urbains, question spécifique « Des métropoles inégales et en mutation » en France) – 1er thème de géographie, traité de septembre à octobre (ex. ressources académie de Bordeaux « 1ère géographie thème 1 ») – BO spécial n°1 du 22 janvier 2019 ; révision pendant les vacances de Toussaint (17/10-02/11/2026, toutes zones)",
+ "questions": [
+  {
+   "q": "Comment appelle-t-on la concentration des hommes, des activités et des pouvoirs dans les grandes villes ?",
+   "options": [
+    "La périurbanisation",
+    "La métropolisation",
+    "La gentrification"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Une agglomération de plus de 10 millions d'habitants est…",
+   "options": [
+    "Une mégapole",
+    "Une technopole",
+    "Une ville moyenne"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Comment appelle-t-on l'installation des citadins dans les communes en périphérie des villes ?",
+   "options": [
+    "La gentrification",
+    "La littoralisation",
+    "La périurbanisation"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "L'arrivée de ménages aisés dans un quartier populaire qui se transforme, c'est…",
+   "options": [
+    "La ségrégation",
+    "La gentrification",
+    "L'étalement urbain"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel quartier d'affaires symbolise la métropolisation de Paris ?",
+   "options": [
+    "La Défense",
+    "Montmartre",
+    "Le Marais"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Une ville qui exerce des fonctions de commandement à l'échelle mondiale est…",
+   "options": [
+    "Une banlieue",
+    "Une ville nouvelle",
+    "Une ville mondiale"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Combien la France compte-t-elle de métropoles au sens administratif ?",
+   "options": [
+    "12",
+    "22",
+    "42"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Cite une métropole française et une raison qui la rend attractive !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

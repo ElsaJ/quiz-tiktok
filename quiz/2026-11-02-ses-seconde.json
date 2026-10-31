@@ -1,0 +1,74 @@
+{
+ "matiere": "SES",
+ "niveau": "Seconde",
+ "fond": "ses.png",
+ "musique": 1,
+ "programme": "Seconde – SES, science économique : « Comment crée-t-on des richesses et comment les mesure-t-on ? » (organisations productives, facteurs de production, valeur ajoutée, PIB et ses limites) – 1er chapitre d'économie, traité à partir de la rentrée du 3 novembre dans la progression de l'académie de Martinique 2025, plus tôt dans d'autres classes – BO spécial n°1 du 22 janvier 2019 ; rentrée de Toussaint le 02/11/2026",
+ "questions": [
+  {
+   "q": "Comment appelle-t-on la richesse réellement créée par une entreprise ?",
+   "options": [
+    "La valeur ajoutée",
+    "Le chiffre d'affaires",
+    "Le bénéfice"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "La valeur ajoutée, c'est le chiffre d'affaires moins…",
+   "options": [
+    "Les salaires",
+    "Les impôts",
+    "Consommations intermédiaires"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Le PIB est la somme des…",
+   "options": [
+    "Chiffres d'affaires",
+    "Valeurs ajoutées",
+    "Salaires versés"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Les soins dans un hôpital public relèvent de la production…",
+   "options": [
+    "Non marchande",
+    "Marchande",
+    "Domestique"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Les machines et les bâtiments d'une entreprise constituent…",
+   "options": [
+    "Le travail",
+    "La valeur ajoutée",
+    "Le capital"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quelle est une limite du PIB comme indicateur ?",
+   "options": [
+    "Il compte les exportations",
+    "Il oublie le bénévolat",
+    "Il se calcule chaque année"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quelle organisation produit dans le but de réaliser un profit ?",
+   "options": [
+    "Une entreprise",
+    "Une association",
+    "Une administration"
+   ],
+   "bonne": 0
+  }
+ ],
+ "bonus": "Donne un exemple de production non marchande que tu utilises chaque jour !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

@@ -1,0 +1,74 @@
+{
+ "matiere": "Maths",
+ "niveau": "Terminale",
+ "fond": "maths.png",
+ "musique": 3,
+ "programme": "Terminale spécialité – Analyse : suites (raisonnement par récurrence, limites, théorèmes de comparaison et des gendarmes, suites monotones bornées), chapitres « Suites 1 » et « Suites 2 » placés en début d'année (progression académie de Rennes) – BO spécial n°8 du 25 juillet 2019 (programme en vigueur en terminale jusqu'en 2026-2027) ; révision pendant les vacances de Toussaint",
+ "questions": [
+  {
+   "q": "Un raisonnement par récurrence comporte une initialisation et…",
+   "options": [
+    "Une contraposée",
+    "Un raisonnement par l'absurde",
+    "Une hérédité"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Si q est strictement compris entre -1 et 1, vers quoi tend q puissance n ?",
+   "options": [
+    "0",
+    "1",
+    "Plus l'infini"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Une suite croissante et majorée est forcément…",
+   "options": [
+    "Divergente",
+    "Convergente",
+    "Constante"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Vers quoi tend n² quand n tend vers plus l'infini ?",
+   "options": [
+    "0",
+    "1",
+    "Plus l'infini"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "La suite u est toujours inférieure à la suite v, et u tend vers plus l'infini. Alors v tend vers…",
+   "options": [
+    "0",
+    "Plus l'infini",
+    "Moins l'infini"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel théorème permet de trouver la limite d'une suite encadrée par deux suites de même limite ?",
+   "options": [
+    "Théorème des gendarmes",
+    "Théorème de Pythagore",
+    "Théorème de Thalès"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Le premier terme vaut 3 et chaque terme est le double du précédent. Que vaut le 4e terme ?",
+   "options": [
+    "12",
+    "18",
+    "24"
+   ],
+   "bonne": 2
+  }
+ ],
+ "bonus": "Une suite décroissante et minorée par 0 converge-t-elle forcément vers 0 ? Justifie !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}
