@@ -1,0 +1,74 @@
+{
+ "matiere": "Français",
+ "niveau": "Seconde",
+ "fond": "francais.png",
+ "musique": 1,
+ "programme": "Seconde – Objet d'étude « Le roman et le récit du XVIIIe au XXIe siècle » : réalisme et naturalisme au XIXe siècle (Balzac, Flaubert, Zola, Maupassant), suite de l'objet d'étude engagé depuis la rentrée (cf. révision Toussaint du 24/10) – programme de français BO spécial n°1 du 22 janvier 2019, inchangé en 2026-2027 (seules les maths changent, BO n°14 du 2 avril 2026)",
+ "questions": [
+  {
+   "q": "Quel auteur a écrit le cycle des « Rougon-Macquart » ?",
+   "options": [
+    "Victor Hugo",
+    "Émile Zola",
+    "Alexandre Dumas"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "« La Comédie humaine » est l'œuvre de…",
+   "options": [
+    "Balzac",
+    "Flaubert",
+    "Maupassant"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Quel mouvement veut représenter la réalité sans l'embellir ?",
+   "options": [
+    "Le romantisme",
+    "Le surréalisme",
+    "Le réalisme"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Le naturalisme insiste surtout sur l'influence…",
+   "options": [
+    "De l'hérédité et du milieu",
+    "Du destin et des dieux",
+    "Du rêve et de l'imaginaire"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Quel roman de Flaubert raconte les désillusions d'Emma ?",
+   "options": [
+    "Bel-Ami",
+    "Madame Bovary",
+    "Germinal"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Maupassant est surtout célèbre pour ses romans et ses…",
+   "options": [
+    "Tragédies",
+    "Fables",
+    "Nouvelles"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "« Germinal » de Zola se déroule dans le monde…",
+   "options": [
+    "Des mines",
+    "De la finance",
+    "Du théâtre"
+   ],
+   "bonne": 0
+  }
+ ],
+ "bonus": "Cite un roman réaliste ou naturaliste et son auteur !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

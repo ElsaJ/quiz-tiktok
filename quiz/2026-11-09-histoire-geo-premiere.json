@@ -1,0 +1,74 @@
+{
+ "matiere": "Histoire-géo",
+ "niveau": "Première",
+ "fond": "histoire-geo.png",
+ "musique": 3,
+ "programme": "Première – Histoire, thème 1 « L'Europe face aux révolutions », ch. 2 « L'Europe entre restauration et révolution (1814-1848) » (point de passage : Metternich et le congrès de Vienne), traité après la Toussaint à la suite du ch. 1 sur la Révolution et l'Empire (6-7 h, septembre-octobre) ; chapitre 2 de l'année (Kartable, présentation académie de Bordeaux) – BO spécial n°1 du 22 janvier 2019",
+ "questions": [
+  {
+   "q": "Quel congrès réorganise l'Europe en 1814-1815 ?",
+   "options": [
+    "Le congrès de Vienne",
+    "Le congrès de Berlin",
+    "Le congrès de Paris"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Quel chancelier autrichien domine ce congrès ?",
+   "options": [
+    "Bismarck",
+    "Metternich",
+    "Cavour"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel roi monte sur le trône de France avec la Restauration en 1814 ?",
+   "options": [
+    "Charles X",
+    "Louis-Philippe",
+    "Louis XVIII"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Comment appelle-t-on la révolution parisienne de juillet 1830 ?",
+   "options": [
+    "Les Trois Glorieuses",
+    "La Commune",
+    "Les Cent-Jours"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Qui devient « roi des Français » en 1830 ?",
+   "options": [
+    "Charles X",
+    "Louis-Philippe",
+    "Napoléon III"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel peuple voit son indépendance reconnue face à l'Empire ottoman en 1830 ?",
+   "options": [
+    "Les Polonais",
+    "Les Hongrois",
+    "Les Grecs"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Comment appelle-t-on la vague de révolutions de 1848 en Europe ?",
+   "options": [
+    "Les Années folles",
+    "Le printemps des peuples",
+    "La Belle Époque"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Cite une conquête de la révolution de 1848 !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

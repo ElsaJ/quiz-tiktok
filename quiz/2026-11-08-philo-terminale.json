@@ -1,0 +1,74 @@
+{
+ "matiere": "Philo",
+ "niveau": "Terminale",
+ "fond": "philo.png",
+ "musique": 2,
+ "programme": "Terminale – Philosophie : les repères du programme (légal/légitime, persuader/convaincre, contingent/nécessaire, universel/général, en acte/en puissance, obligation/contrainte, objectif/subjectif), outils transversaux mobilisés dès les premières dissertations et explications de texte du premier trimestre – programme de philosophie, BO spécial n°8 du 25 juillet 2019 (17 notions, 31 repères)",
+ "questions": [
+  {
+   "q": "Ce qui est conforme à la loi est légal. Ce qui est fondé en justice est…",
+   "options": [
+    "Légitime",
+    "Contingent",
+    "Subjectif"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Agir sur les sentiments plutôt que sur la raison, c'est…",
+   "options": [
+    "Convaincre",
+    "Persuader",
+    "Démontrer"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Ce qui pourrait ne pas être, ou être autrement, est…",
+   "options": [
+    "Nécessaire",
+    "Absolu",
+    "Contingent"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Ce qui vaut pour tous, sans aucune exception, est…",
+   "options": [
+    "Général",
+    "Universel",
+    "Particulier"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Pour Aristote, la graine est un arbre…",
+   "options": [
+    "En puissance",
+    "En acte",
+    "En droit"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Être forcé d'agir par une force extérieure, c'est subir…",
+   "options": [
+    "Une obligation",
+    "Une contrainte",
+    "Un devoir"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Ce qui dépend du point de vue de chacun est…",
+   "options": [
+    "Objectif",
+    "Universel",
+    "Subjectif"
+   ],
+   "bonne": 2
+  }
+ ],
+ "bonus": "Quelle différence entre croire et savoir ? Donne un exemple !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

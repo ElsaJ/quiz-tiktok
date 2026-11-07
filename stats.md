@@ -29,3 +29,17 @@ Meilleure vidéo en vues : SVT Seconde (347) ; meilleur engagement : Philo Termi
 
 Abonnés : 8 105 (24/10) → 8 141 (29/10, dernière valeur disponible), soit +36 (+41 depuis le 22/10).
 Meilleures vidéos en vues : Enseignement scientifique Terminale (772) et Physique-chimie Seconde (757) ; meilleur engagement : Français Seconde (28 likes) et Histoire-géo Première (27 likes, 2 partages). Vues totales ×1,8 par rapport à la semaine précédente.
+
+## Bilan du 07/11/2026 — semaine du 31 octobre au 5 novembre 2026 (fin des vacances / rentrée de Toussaint)
+
+| Matière | Niveau | Date | Vues | Likes | Commentaires | Partages |
+|---|---|---|---|---|---|---|
+| Histoire-géo | Première | 2026-10-31 | 637 | 13 | 0 | 2 |
+| Maths | Terminale | 2026-11-01 | 786 | 18 | 0 | 0 |
+| SES | Seconde | 2026-11-02 | 901 | 20 | 0 | 2 |
+| SVT | Première | 2026-11-04 | 795 | 26 | 0 | 0 |
+| Histoire-géo | Terminale | 2026-11-05 | 239 | 3 | 0 | 0 |
+| **Total** | | | **3 358** | **80** | **0** | **4** |
+
+Abonnés : 8 151 (31/10) → 8 189 (05/11, dernière valeur disponible), soit +38 (+48 depuis le 29/10).
+Meilleure vidéo en vues : SES Seconde (901, 2 partages) ; meilleur engagement : SVT Première (26 likes). Histoire-géo Terminale (publiée le 05/11) n'a que 2 jours de recul. Aucun commentaire cette semaine. Vues totales +26 % par rapport à la semaine précédente.

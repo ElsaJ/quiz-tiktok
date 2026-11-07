@@ -1,0 +1,74 @@
+{
+ "matiere": "Enseignement scientifique",
+ "niveau": "Première",
+ "fond": "enseignement-scientifique.png",
+ "musique": 2,
+ "programme": "Première – Enseignement scientifique, thème 1 « Une longue histoire de la matière » : 1.1 Un niveau d'organisation, les éléments chimiques (nucléosynthèse, radioactivité, demi-vie, datation) et 1.2 Des édifices ordonnés, les cristaux (maille cubique, solides cristallins et amorphes), 1er thème du programme traité au premier trimestre (progression académie de Guyane) – programme révisé, BO du 22 juin 2023, inchangé en 2026-2027 hors module de maths",
+ "questions": [
+  {
+   "q": "Quel est l'élément chimique le plus abondant dans l'Univers ?",
+   "options": [
+    "L'hélium",
+    "L'hydrogène",
+    "Le carbone"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Où se forment la plupart des éléments plus lourds que l'hélium ?",
+   "options": [
+    "Au cœur des étoiles",
+    "Dans les océans",
+    "Dans le noyau terrestre"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "La demi-vie d'un noyau radioactif, c'est la durée au bout de laquelle…",
+   "options": [
+    "Tout a disparu",
+    "10 % ont disparu",
+    "La moitié a disparu"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quel isotope radioactif sert à dater des restes d'êtres vivants ?",
+   "options": [
+    "Le carbone 14",
+    "Le carbone 12",
+    "L'uranium 238"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Après deux demi-vies, quelle part des noyaux radioactifs reste ?",
+   "options": [
+    "La moitié",
+    "Un quart",
+    "Un huitième"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Le sel de cuisine (chlorure de sodium) solide a une structure…",
+   "options": [
+    "Amorphe",
+    "Désordonnée",
+    "Cristalline"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Combien d'atomes compte en propre une maille cubique à faces centrées ?",
+   "options": [
+    "2",
+    "4",
+    "8"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Le verre est-il un cristal ? Explique pourquoi !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

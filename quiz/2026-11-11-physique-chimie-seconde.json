@@ -1,0 +1,74 @@
+{
+ "matiere": "Physique-chimie",
+ "niveau": "Seconde",
+ "fond": "physique-chimie.png",
+ "musique": 1,
+ "programme": "Seconde – Physique-chimie, « Constitution et transformations de la matière », partie 1 B : modéliser la matière à l'échelle microscopique (atome, noyau, électrons, numéro atomique, tableau périodique, ions monoatomiques), suite directe de la description macroscopique vue en septembre-octobre dans l'ordre du programme – BO spécial n°1 du 22 janvier 2019, inchangé en 2026-2027",
+ "questions": [
+  {
+   "q": "Un atome est constitué d'un noyau et…",
+   "options": [
+    "D'électrons",
+    "De molécules",
+    "D'ions"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Le noyau d'un atome contient des protons et des…",
+   "options": [
+    "Électrons",
+    "Neutrons",
+    "Photons"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quelle est la charge électrique totale d'un atome ?",
+   "options": [
+    "Positive",
+    "Négative",
+    "Nulle"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Le numéro atomique Z indique le nombre de…",
+   "options": [
+    "Neutrons",
+    "Protons",
+    "Nucléons"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Les éléments d'une même colonne du tableau périodique forment…",
+   "options": [
+    "Une famille",
+    "Une période",
+    "Une molécule"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Dans quelle colonne du tableau périodique sont les gaz nobles ?",
+   "options": [
+    "La 1re colonne",
+    "La 17e colonne",
+    "La dernière colonne"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "L'atome de sodium perd facilement un électron. Il devient…",
+   "options": [
+    "Un ion négatif",
+    "Un ion positif",
+    "Un isotope"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Combien d'électrons possède un atome de carbone (Z = 6) ? Explique !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}
