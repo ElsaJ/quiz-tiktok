@@ -20,3 +20,8 @@
 | 2026-11-09 18:00 | Histoire-géo | Première | quiz/2026-11-09-histoire-geo-premiere.json |
 | 2026-11-11 18:00 | Physique-chimie | Seconde | quiz/2026-11-11-physique-chimie-seconde.json |
 | 2026-11-12 18:00 | Enseignement scientifique | Première | quiz/2026-11-12-enseignement-scientifique-premiere.json |
+| 2026-11-14 15:00 | Histoire-géo | Seconde | quiz/2026-11-14-histoire-geo-seconde.json |
+| 2026-11-15 15:00 | Français | Première | quiz/2026-11-15-francais-premiere.json |
+| 2026-11-16 18:00 | Maths | Terminale | quiz/2026-11-16-maths-terminale.json |
+| 2026-11-18 18:00 | SVT | Seconde | quiz/2026-11-18-svt-seconde.json |
+| 2026-11-19 18:00 | SES | Terminale | quiz/2026-11-19-ses-terminale.json |

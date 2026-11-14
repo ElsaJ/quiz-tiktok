@@ -1,0 +1,74 @@
+{
+ "matiere": "SES",
+ "niveau": "Terminale",
+ "fond": "ses.png",
+ "musique": 1,
+ "programme": "Terminale spécialité SES – Science économique, ch. 1 « Quels sont les sources et les défis de la croissance économique ? » (PIB, facteurs de production, PGF, progrès technique, institutions, innovation, limites écologiques), 1er chapitre d'économie traité en début d'année (synthèses de cours, académie de Bordeaux) – programme de terminale réécrit et allégé à la rentrée 2024 (synthèses Collège de France / inspection générale), toujours en vigueur en 2026-2027",
+ "questions": [
+  {
+   "q": "La croissance économique se mesure par l'évolution du…",
+   "options": [
+    "PIB en volume",
+    "Taux de chômage",
+    "Budget de l'État"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "La productivité globale des facteurs s'explique surtout par…",
+   "options": [
+    "La hausse des prix",
+    "Le progrès technique",
+    "Les impôts"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel économiste a théorisé la destruction créatrice ?",
+   "options": [
+    "Keynes",
+    "Adam Smith",
+    "Schumpeter"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Un brevet protège…",
+   "options": [
+    "Un salarié",
+    "Une innovation",
+    "Une monnaie"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Les droits de propriété sont un exemple…",
+   "options": [
+    "D'institution",
+    "D'externalité",
+    "De facteur travail"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Pour la soutenabilité forte, le capital naturel…",
+   "options": [
+    "Est substituable",
+    "Est illimité",
+    "N'est pas substituable"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Une croissance extensive repose sur…",
+   "options": [
+    "Plus de facteurs de production",
+    "Plus de productivité",
+    "Moins de capital"
+   ],
+   "bonne": 0
+  }
+ ],
+ "bonus": "Cite un exemple de limite écologique à la croissance !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

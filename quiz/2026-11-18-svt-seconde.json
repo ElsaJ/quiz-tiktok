@@ -1,0 +1,74 @@
+{
+ "matiere": "SVT",
+ "niveau": "Seconde",
+ "fond": "svt.png",
+ "musique": 3,
+ "programme": "Seconde – SVT, thème 1 « La Terre, la vie et l'organisation du vivant », ch. 2 « La biodiversité, résultat et étape de l'évolution » : biodiversité à différentes échelles, estimation (échantillonnage, capture-recapture, sciences participatives), diversité génétique au sein d'une espèce, traités en novembre (progression annuelle SVT seconde, académie de Guyane) – BO spécial n°1 du 22 janvier 2019",
+ "questions": [
+  {
+   "q": "La biodiversité s'observe à trois échelles : écosystèmes, espèces et…",
+   "options": [
+    "Organes",
+    "Gènes",
+    "Planètes"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quelle méthode permet d'estimer la taille d'une population animale ?",
+   "options": [
+    "La datation",
+    "La mitose",
+    "La capture-recapture"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Deux individus sont de la même espèce s'ils peuvent…",
+   "options": [
+    "Avoir une descendance fertile",
+    "Vivre au même endroit",
+    "Se ressembler"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Les différentes versions d'un même gène s'appellent des…",
+   "options": [
+    "Chromosomes",
+    "Allèles",
+    "Nucléotides"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Les sciences participatives font appel à…",
+   "options": [
+    "Des robots",
+    "Des satellites",
+    "Des citoyens"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Le barcoding identifie une espèce grâce à…",
+   "options": [
+    "Une séquence d'ADN",
+    "Sa couleur",
+    "Sa taille"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Un écosystème est formé d'un biotope et…",
+   "options": [
+    "D'une seule espèce",
+    "D'une biocénose",
+    "D'un gène"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Donne un exemple de diversité génétique dans une espèce !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

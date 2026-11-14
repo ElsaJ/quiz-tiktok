@@ -1,0 +1,74 @@
+{
+ "matiere": "Maths",
+ "niveau": "Terminale",
+ "fond": "maths.png",
+ "musique": 2,
+ "programme": "Terminale spécialité – Combinatoire et dénombrement (k-uplets, permutations, factorielle, combinaisons, parties d'un ensemble), chapitre « Combinatoire et dénombrement 1 » placé juste après « Suites 1 » en octobre-novembre (progression académie de Rennes) – BO spécial n°8 du 25 juillet 2019 (programme de terminale en vigueur jusqu'en 2026-2027)",
+ "questions": [
+  {
+   "q": "Combien vaut 4! (factorielle 4) ?",
+   "options": [
+    "16",
+    "24",
+    "10"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "De combien de façons peut-on ranger 3 livres différents ?",
+   "options": [
+    "3",
+    "9",
+    "6"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Combien de parties possède un ensemble à n éléments ?",
+   "options": [
+    "2 puissance n",
+    "n au carré",
+    "n factorielle"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Que vaut « 2 parmi 5 » ?",
+   "options": [
+    "20",
+    "10",
+    "25"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Combien de codes à 3 chiffres (de 0 à 9) peut-on former ?",
+   "options": [
+    "1 000",
+    "720",
+    "30"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Que vaut « 0 parmi n » ?",
+   "options": [
+    "0",
+    "n",
+    "1"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Dans une combinaison de k éléments, l'ordre…",
+   "options": [
+    "Compte",
+    "Ne compte pas",
+    "Est croissant"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Combien de mains de 5 cartes dans un jeu de 32 ? Explique ton calcul !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

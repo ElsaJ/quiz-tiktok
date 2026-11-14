@@ -1,0 +1,74 @@
+{
+ "matiere": "Histoire-géo",
+ "niveau": "Seconde",
+ "fond": "histoire-geo.png",
+ "musique": 3,
+ "programme": "Seconde – Histoire, thème 1 « Le monde méditerranéen : empreintes de l'Antiquité et du Moyen Âge » : ch. 1 La Méditerranée antique (Périclès, Auguste, Constantin) et ch. 2 La Méditerranée médiévale (Bernard de Clairvaux, Venise), traité en septembre-octobre avant la géographie de novembre (progression APHG) – BO spécial n°1 du 22 janvier 2019, toujours en vigueur en 2026-2027",
+ "questions": [
+  {
+   "q": "Au Ve siècle av. J.-C., quel stratège domine la vie politique d'Athènes ?",
+   "options": [
+    "Périclès",
+    "Alexandre",
+    "Solon"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Dans la démocratie athénienne, qui peut voter à l'Ecclésia ?",
+   "options": [
+    "Tous les habitants",
+    "Les citoyens",
+    "Les métèques"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel titre Octave reçoit-il du Sénat en 27 av. J.-C. ?",
+   "options": [
+    "Dictateur",
+    "Consul",
+    "Auguste"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quel empereur romain se convertit au christianisme ?",
+   "options": [
+    "Néron",
+    "Constantin",
+    "Trajan"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quelle ville Constantin inaugure-t-il en 330 ?",
+   "options": [
+    "Constantinople",
+    "Ravenne",
+    "Alexandrie"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "En 1146, qui prêche la deuxième croisade à Vézelay ?",
+   "options": [
+    "Urbain II",
+    "Saint Louis",
+    "Bernard de Clairvaux"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Au Moyen Âge, Venise est avant tout une puissance…",
+   "options": [
+    "Agricole",
+    "Commerciale",
+    "Continentale"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Quelles sont les trois civilisations de la Méditerranée médiévale ?",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

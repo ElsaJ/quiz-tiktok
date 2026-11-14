@@ -1,0 +1,74 @@
+{
+ "matiere": "Français",
+ "niveau": "Première",
+ "fond": "francais.png",
+ "musique": 1,
+ "programme": "Première – Français, programme national d'œuvres pour le bac 2027 (voie générale) : les 12 œuvres et parcours des quatre objets d'étude (poésie, littérature d'idées, roman et récit, théâtre), étudiés tout au long de l'année jusqu'à l'épreuve anticipée de juin 2027 – note de service, BO n°30 du 24 juillet 2025",
+ "questions": [
+  {
+   "q": "Qui a écrit Mes forêts, au programme du bac 2027 ?",
+   "options": [
+    "Hélène Dorion",
+    "Annie Ernaux",
+    "Andrée Chedid"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Le Cahier de Douai est un recueil de…",
+   "options": [
+    "Baudelaire",
+    "Rimbaud",
+    "Verlaine"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Qui a écrit le Discours de la servitude volontaire ?",
+   "options": [
+    "Montaigne",
+    "Rousseau",
+    "La Boétie"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Les Lettres d'une Péruvienne de Graffigny sont un roman…",
+   "options": [
+    "Épistolaire",
+    "Policier",
+    "Autobiographique"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Qui a écrit Le Chevalier de la charrette ?",
+   "options": [
+    "Marie de France",
+    "Chrétien de Troyes",
+    "Rabelais"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Le Menteur de Corneille est…",
+   "options": [
+    "Une tragédie",
+    "Un drame romantique",
+    "Une comédie"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Qui a écrit On ne badine pas avec l'amour ?",
+   "options": [
+    "Marivaux",
+    "Musset",
+    "Hugo"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Quel roman de Zola est au programme du bac 2027 en voie générale ?",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}
