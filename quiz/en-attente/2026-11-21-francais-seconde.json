@@ -1,0 +1,74 @@
+{
+ "matiere": "Français",
+ "niveau": "Seconde",
+ "fond": "francais.png",
+ "musique": 2,
+ "programme": "Seconde – Objet d'étude « La poésie du Moyen Âge au XVIIIe siècle » (Villon, la Pléiade, La Fontaine), deuxième objet d'étude abordé après le roman et le récit étudié depuis la rentrée (cf. quiz du 07/11) ; les progressions académiques (ex. projets annuels de seconde, académies de Nancy-Metz et Strasbourg) placent la poésie au premier trimestre – programme de français BO spécial n°1 du 22 janvier 2019, inchangé en 2026-2027",
+ "questions": [
+  {
+   "q": "Quel groupe de poètes de la Renaissance réunit Ronsard et Du Bellay ?",
+   "options": [
+    "La Pléiade",
+    "Le Parnasse",
+    "Les symbolistes"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Qui a écrit « Mignonne, allons voir si la rose » ?",
+   "options": [
+    "Du Bellay",
+    "Ronsard",
+    "Villon"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel poète du XVIIe siècle a écrit les « Fables » ?",
+   "options": [
+    "Boileau",
+    "Racine",
+    "La Fontaine"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Un sonnet se termine par deux…",
+   "options": [
+    "Tercets",
+    "Quatrains",
+    "Distiques"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Le thème qui invite à profiter de l'instant présent s'appelle…",
+   "options": [
+    "Memento mori",
+    "Locus amoenus",
+    "Carpe diem"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quel poète du XVe siècle a écrit la « Ballade des pendus » ?",
+   "options": [
+    "Clément Marot",
+    "François Villon",
+    "Louise Labé"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Qui a écrit « Heureux qui, comme Ulysse, a fait un beau voyage » ?",
+   "options": [
+    "Ronsard",
+    "Du Bellay",
+    "La Fontaine"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Cite une fable de La Fontaine et sa morale !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

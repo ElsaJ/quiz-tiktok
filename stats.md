@@ -58,3 +58,19 @@ Meilleure vidéo en vues : SES Seconde (901, 2 partages) ; meilleur engagement :
 Abonnés : 8 196 (07/11) → 8 219 (10/11, dernière valeur disponible), soit +23 (+30 depuis le 05/11).
 Physique-chimie Seconde (11/11) et Enseignement scientifique Première (12/11) : publiées (statut « Published » dans Metricool) mais pas encore remontées dans les analytics (délai de synchronisation) — à relever au prochain bilan.
 Meilleure vidéo en vues : Philo Terminale (761, 1 commentaire) ; meilleur engagement : Histoire-géo Première (21 likes, 2 partages). Français Seconde en retrait cette fois (389 vues, 5 likes).
+
+Rattrapage (relevé du 21/11/2026) : Physique-chimie Seconde (11/11) — 913 vues, 29 likes, 0 commentaire, 0 partage ; Enseignement scientifique Première (12/11) — 1 059 vues, 28 likes, 0 commentaire, 1 partage. Total corrigé de la semaine du 7 au 12/11 : 3 786 vues, 99 likes, 1 commentaire, 4 partages.
+
+## Bilan du 21/11/2026 — semaine du 14 au 19 novembre 2026
+
+| Matière | Niveau | Date | Vues | Likes | Commentaires | Partages |
+|---|---|---|---|---|---|---|
+| Histoire-géo | Seconde | 2026-11-14 | 918 | 15 | 0 | 0 |
+| Français | Première | 2026-11-15 | 823 | 21 | 0 | 0 |
+| Maths | Terminale | 2026-11-16 | 753 | 16 | 1 | 0 |
+| SVT | Seconde | 2026-11-18 | 272 | 9 | 0 | 0 |
+| SES | Terminale | 2026-11-19 | 528 | 25 | 0 | 3 |
+| **Total** | | | **3 294** | **86** | **1** | **3** |
+
+Abonnés : 8 257 (14/11) → 8 331 (19/11, dernière valeur disponible), soit +74 (+91 depuis le 13/11) — meilleure progression hebdomadaire depuis le début du suivi.
+Meilleure vidéo en vues : Histoire-géo Seconde (918) ; meilleur engagement : SES Terminale (25 likes, 3 partages, seulement 2 jours de recul). SVT Seconde en retrait (272 vues). Enseignement scientifique Première (12/11) est désormais la vidéo la plus vue du mois (1 059).

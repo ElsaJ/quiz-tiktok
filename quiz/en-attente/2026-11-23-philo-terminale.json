@@ -1,0 +1,74 @@
+{
+ "matiere": "Philo",
+ "niveau": "Terminale",
+ "fond": "philo.png",
+ "musique": 1,
+ "programme": "Terminale – Philosophie, notions « Le bonheur » et « Le devoir » (Épicure, Épictète, Aristote, Pascal, Kant, Platon), notions fréquemment traitées au premier trimestre à la suite de la conscience, de l'inconscient et de la liberté (cf. quiz du 22/10) ; l'ordre des 17 notions est laissé libre au professeur – programme de philosophie, BO spécial n°8 du 25 juillet 2019",
+ "questions": [
+  {
+   "q": "Pour Épicure, le bonheur réside dans l'absence de trouble, appelée…",
+   "options": [
+    "L'ataraxie",
+    "L'euphorie",
+    "L'extase"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Pour Épictète, il faut distinguer ce qui dépend de nous et…",
+   "options": [
+    "Ce qui plaît aux dieux",
+    "Ce qui n'en dépend pas",
+    "Ce qui est utile"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Pour Kant, le bonheur n'est pas un idéal de la raison, mais de…",
+   "options": [
+    "La volonté",
+    "La société",
+    "L'imagination"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Selon Kant, la loi morale s'exprime sous la forme d'un impératif…",
+   "options": [
+    "Catégorique",
+    "Hypothétique",
+    "Technique"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Qui affirme que « tous les hommes recherchent d'être heureux » ?",
+   "options": [
+    "Nietzsche",
+    "Pascal",
+    "Hobbes"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Dans le « Gorgias » de Platon, qui défend la satisfaction de tous les désirs ?",
+   "options": [
+    "Socrate",
+    "Aristote",
+    "Calliclès"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Pour Aristote, le bonheur est le souverain bien car on le recherche…",
+   "options": [
+    "Pour lui-même",
+    "Pour l'argent",
+    "Pour les autres"
+   ],
+   "bonne": 0
+  }
+ ],
+ "bonus": "Le bonheur est-il une affaire de chance ? Donne ton avis !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

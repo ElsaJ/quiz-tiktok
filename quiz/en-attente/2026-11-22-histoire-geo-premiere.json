@@ -1,0 +1,74 @@
+{
+ "matiere": "Histoire-géo",
+ "niveau": "Première",
+ "fond": "histoire-geo.png",
+ "musique": 3,
+ "programme": "Première – Histoire, thème 1 « L'Europe face aux révolutions », ch. 3 « La difficile entrée dans l'âge démocratique : la Deuxième République et le Second Empire » (points de passage : 1848 et l'abolition de l'esclavage, Louis-Napoléon Bonaparte premier président de la République), chapitre suivant directement le ch. 2 « L'Europe entre restauration et révolution » traité début novembre (cf. quiz du 09/11 ; Kartable, Eduscol) – BO spécial n°1 du 22 janvier 2019",
+ "questions": [
+  {
+   "q": "Quel suffrage est instauré en France en 1848 ?",
+   "options": [
+    "Censitaire",
+    "Universel masculin",
+    "Universel mixte"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel homme politique est à l'origine de l'abolition de l'esclavage en 1848 ?",
+   "options": [
+    "Victor Schœlcher",
+    "Lamartine",
+    "Victor Hugo"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Qui est élu président de la République en décembre 1848 ?",
+   "options": [
+    "Cavaignac",
+    "Lamartine",
+    "Louis-Napoléon Bonaparte"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quand Louis-Napoléon Bonaparte fait-il son coup d'État ?",
+   "options": [
+    "2 décembre 1851",
+    "4 septembre 1870",
+    "24 février 1848"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Sous quel nom devient-il empereur en 1852 ?",
+   "options": [
+    "Napoléon II",
+    "Napoléon III",
+    "Louis XIX"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quel préfet transforme Paris sous le Second Empire ?",
+   "options": [
+    "Gustave Eiffel",
+    "Jules Ferry",
+    "Le baron Haussmann"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quelle défaite entraîne la chute du Second Empire en 1870 ?",
+   "options": [
+    "Waterloo",
+    "Sedan",
+    "Verdun"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Le suffrage « universel » de 1848 l'était-il vraiment ? Explique !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

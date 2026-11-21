@@ -1,0 +1,74 @@
+{
+ "matiere": "Maths",
+ "niveau": "Première",
+ "fond": "maths.png",
+ "musique": 2,
+ "programme": "Première spécialité (nouveau programme 2026) – Algèbre : suites arithmétiques et géométriques (relation de récurrence, terme général, somme 1+2+…+n, sens de variation, modélisation d'évolutions), chapitre traité après le second degré de septembre-octobre (période 2 de la progression 2026-2027 de preparemescours.fr ; excellence-maths.fr : second degré et suites en début d'année) – arrêté du 26-02-2026, BO n°14 du 2 avril 2026",
+ "questions": [
+  {
+   "q": "Dans une suite arithmétique de raison r, on passe d'un terme au suivant en…",
+   "options": [
+    "Ajoutant r",
+    "Multipliant par r",
+    "Divisant par r"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Suite arithmétique : u0 = 5 et raison 3. Que vaut u4 ?",
+   "options": [
+    "15",
+    "17",
+    "20"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Suite géométrique : u0 = 2 et raison 3. Que vaut u3 ?",
+   "options": [
+    "18",
+    "24",
+    "54"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Que vaut la somme des entiers de 1 à 100 ?",
+   "options": [
+    "5 050",
+    "10 100",
+    "5 000"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Une suite géométrique de premier terme positif et de raison 0,5 est…",
+   "options": [
+    "Croissante",
+    "Décroissante",
+    "Constante"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Pour étudier les variations d'une suite, on étudie le signe de…",
+   "options": [
+    "u(n) + n",
+    "u(n) × n",
+    "u(n+1) − u(n)"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Un capital augmente de 2 % par an. Les valeurs successives forment une suite…",
+   "options": [
+    "Géométrique de raison 1,02",
+    "Arithmétique de raison 2",
+    "Géométrique de raison 2"
+   ],
+   "bonne": 0
+  }
+ ],
+ "bonus": "Combien de termes y a-t-il de u0 à u10 ? Explique !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}

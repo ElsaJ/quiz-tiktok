@@ -1,0 +1,74 @@
+{
+ "matiere": "Physique-chimie",
+ "niveau": "Seconde",
+ "fond": "physique-chimie.png",
+ "musique": 3,
+ "programme": "Seconde – Physique-chimie, « Constitution et transformations de la matière », partie 1 B (suite) : vers des entités plus stables chimiquement (électrons de valence, gaz nobles, liaison covalente, schéma de Lewis) et compter les entités (mole, constante d'Avogadro), sous-parties qui suivent directement le noyau et le cortège électronique dans l'ordre du programme (cf. quiz du 11/11) – BO spécial n°1 du 22 janvier 2019, inchangé en 2026-2027",
+ "questions": [
+  {
+   "q": "Les électrons de la couche externe d'un atome sont appelés électrons…",
+   "options": [
+    "De cœur",
+    "De valence",
+    "Libres"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Quelle famille d'éléments est particulièrement stable chimiquement ?",
+   "options": [
+    "Les alcalins",
+    "Les halogènes",
+    "Les gaz nobles"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Une liaison covalente est la mise en commun de…",
+   "options": [
+    "Deux électrons",
+    "Deux protons",
+    "Deux neutrons"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Dans un schéma de Lewis, un tiret entre deux atomes représente…",
+   "options": [
+    "Un doublet non liant",
+    "Un doublet liant",
+    "Une charge"
+   ],
+   "bonne": 1
+  },
+  {
+   "q": "Combien de liaisons covalentes l'atome d'hydrogène forme-t-il ?",
+   "options": [
+    "2",
+    "4",
+    "1"
+   ],
+   "bonne": 2
+  },
+  {
+   "q": "Quelle est l'unité de la quantité de matière ?",
+   "options": [
+    "La mole",
+    "Le gramme",
+    "Le litre"
+   ],
+   "bonne": 0
+  },
+  {
+   "q": "Comment s'appelle le nombre d'entités contenues dans une mole ?",
+   "options": [
+    "Le nombre d'or",
+    "La constante d'Avogadro",
+    "La constante de Planck"
+   ],
+   "bonne": 1
+  }
+ ],
+ "bonus": "Combien de liaisons forme l'atome de carbone ? Explique avec la règle de l'octet !",
+ "fin": "réponds en commentaire et abonne-toi pour plus de quiz !"
+}
