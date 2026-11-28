@@ -74,3 +74,22 @@ Rattrapage (relevé du 21/11/2026) : Physique-chimie Seconde (11/11) — 913 vue
 
 Abonnés : 8 257 (14/11) → 8 331 (19/11, dernière valeur disponible), soit +74 (+91 depuis le 13/11) — meilleure progression hebdomadaire depuis le début du suivi.
 Meilleure vidéo en vues : Histoire-géo Seconde (918) ; meilleur engagement : SES Terminale (25 likes, 3 partages, seulement 2 jours de recul). SVT Seconde en retrait (272 vues). Enseignement scientifique Première (12/11) est désormais la vidéo la plus vue du mois (1 059).
+
+## Bilan du 28/11/2026 — semaine du 21 au 26 novembre 2026
+
+Aucune vidéo publiée cette semaine : la clé Azure TTS a été refusée (HTTP 401) le 21/11, les 5 quiz prévus n'ont pas pu être produits. Nouveau test le 28/11 : toujours 401 → semaine du 28/11 au 03/12 également bloquée.
+
+Abonnés : 8 331 (19/11) → 8 445 (25/11, dernière valeur disponible), soit +114 sans nouvelle publication.
+
+Mise à jour des vidéos du 14 au 19/11 (relevé du 28/11) :
+
+| Matière | Niveau | Date | Vues | Likes | Commentaires | Partages |
+|---|---|---|---|---|---|---|
+| Histoire-géo | Seconde | 2026-11-14 | 1 087 | 20 | 0 | 0 |
+| Français | Première | 2026-11-15 | 860 | 23 | 0 | 0 |
+| Maths | Terminale | 2026-11-16 | 795 | 18 | 1 | 0 |
+| SVT | Seconde | 2026-11-18 | 339 | 11 | 0 | 0 |
+| SES | Terminale | 2026-11-19 | 742 | 37 | 0 | 7 |
+| **Total** | | | **3 823** | **109** | **1** | **7** |
+
+Histoire-géo Seconde devient la vidéo la plus vue du mois (1 087) ; SES Terminale a le meilleur engagement (37 likes, 7 partages).
